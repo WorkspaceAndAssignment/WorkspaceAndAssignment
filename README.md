@@ -1,0 +1,3 @@
+- 👋 Hi, This is a place where I uploaded my work and assignment
+- 👀 I’m interested in Web Development, DeFi, Software Security
+- 🌱 I’m currently learning Blockchain technology and Smart Contracts programming
